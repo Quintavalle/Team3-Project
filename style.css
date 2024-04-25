@@ -1,0 +1,44 @@
+.Color-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f3f3f3;
+}
+
+.Color-card{
+    margin: 10px;
+    padding: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.color {
+    width: 100px;
+    height: 100px;
+    border-radius: 0;
+}
+
+.color-name {
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.Color-Container{
+    display: flex;
+}
+
+#Color-upper-Title{
+    text-align: center;
+}
+
+.Category{
+    margin-bottom: 10px;
+    align-items: center;
+}
